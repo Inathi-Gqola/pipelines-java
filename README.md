@@ -1,3 +1,4 @@
+[![Build Status](https://inathi-gqola.visualstudio.com/Empty/_apis/build/status/Inathi-Gqola.pipelines-java?branchName=master)](https://inathi-gqola.visualstudio.com/Empty/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
